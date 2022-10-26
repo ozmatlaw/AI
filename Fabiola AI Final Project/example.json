@@ -1,0 +1,7 @@
+{
+"0": {"meal_type": "coffee", "ingredient": ["ice", "milk", "oat milk"], "order_time": 8},
+"1": {"meal_type": "coffee", "ingredient": ["ice", "milk", "oat milk"], "order_time": 8},
+"2": {"meal_type": "sandwich", "ingredient": ["ketchup", "cucumber", "tomato", "avocado"], "order_time": 24},
+"3": {"meal_type": "sandwich", "ingredient": ["cucumber", "tomato", "avocado"], "order_time": 25},
+"4": {"meal_type": "sandwich", "ingredient": ["ketchup", "tomato", "avocado"], "order_time": 25}
+}

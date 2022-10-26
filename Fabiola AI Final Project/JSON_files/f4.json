@@ -1,0 +1,17 @@
+{
+"0": {"meal_type": "salad", "ingredient": ["tomato", "cheese", "egg"], "order_time": 14},
+"1": {"meal_type": "salad", "ingredient": ["tomato", "cheese", "onion"], "order_time": 4},
+"2": {"meal_type": "coffee", "ingredient": ["oat milk"], "order_time": 7},
+"3": {"meal_type": "toast", "ingredient": ["ketchup", "cheese", "onion", "tuna", "olives"], "order_time": 5},
+"4": {"meal_type": "pasta", "ingredient": ["tomato sauce", "alfredo"], "order_time": 4},
+"5": {"meal_type": "sandwich", "ingredient": ["tuna", "olives"], "order_time": 7},
+"6": {"meal_type": "toast", "ingredient": ["ketchup", "cheese", "onion"], "order_time": 1},
+"7": {"meal_type": "coffee", "ingredient": ["oat milk"], "order_time": 13},
+"8": {"meal_type": "coffee", "ingredient": ["oat milk"], "order_time": 6},
+"9": {"meal_type": "pasta", "ingredient": ["parmesan", "tomato sauce", "cheese", "alfredo"], "order_time": 7},
+"10": {"meal_type": "pasta", "ingredient": ["parmesan"], "order_time": 20},
+"11": {"meal_type": "sandwich", "ingredient": ["tuna", "cucumber", "tomato", "cheese"], "order_time": 1},
+"12": {"meal_type": "pasta", "ingredient": ["pesto"], "order_time": 10},
+"13": {"meal_type": "pasta", "ingredient": ["tomato sauce", "cheese", "alfredo", "pesto"], "order_time": 16},
+"14": {"meal_type": "sandwich", "ingredient": ["ketchup", "avocado", "cheese", "egg", "tomato"], "order_time": 13}
+}

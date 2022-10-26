@@ -1,0 +1,12 @@
+{
+"0": {"meal_type": "sandwich", "ingredient": ["onion", "ketchup", "tomato", "tuna", "lettuce"], "order_time": 16},
+"1": {"meal_type": "pasta", "ingredient": ["alfredo", "parmesan", "pesto", "cheese"], "order_time": 1},
+"2": {"meal_type": "pasta", "ingredient": ["alfredo", "parmesan", "cheese"], "order_time": 16},
+"3": {"meal_type": "sandwich", "ingredient": ["lettuce", "avocado", "cucumber", "tuna"], "order_time": 18},
+"4": {"meal_type": "pasta", "ingredient": ["alfredo", "parmesan", "cheese"], "order_time": 3},
+"5": {"meal_type": "salad", "ingredient": ["egg", "cucumber", "tomato", "lettuce", "olives"], "order_time": 7},
+"6": {"meal_type": "salad", "ingredient": ["cucumber", "tuna"], "order_time": 2},
+"7": {"meal_type": "salad", "ingredient": ["cucumber", "tomato", "avocado", "salad dressing", "cheese"], "order_time": 6},
+"8": {"meal_type": "pasta", "ingredient": ["alfredo", "parmesan", "cheese"], "order_time": 3},
+"9": {"meal_type": "sandwich", "ingredient": ["onion"], "order_time": 5}
+}

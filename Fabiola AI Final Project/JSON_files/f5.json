@@ -1,0 +1,12 @@
+{
+"0": {"meal_type": "salad", "ingredient": ["lettuce"], "order_time": 1},
+"1": {"meal_type": "sandwich", "ingredient": ["cheese", "lettuce", "egg", "cucumber"], "order_time": 6},
+"2": {"meal_type": "toast", "ingredient": ["cheese", "ketchup", "tuna"], "order_time": 2},
+"3": {"meal_type": "salad", "ingredient": ["tomato", "olives", "lettuce"], "order_time": 13},
+"4": {"meal_type": "coffee", "ingredient": ["ice"], "order_time": 19},
+"5": {"meal_type": "salad", "ingredient": ["cucumber"], "order_time": 14},
+"6": {"meal_type": "toast", "ingredient": ["cheese", "onion", "olives", "tuna", "ketchup"], "order_time": 1},
+"7": {"meal_type": "coffee", "ingredient": ["ice", "milk"], "order_time": 3},
+"8": {"meal_type": "toast", "ingredient": ["ketchup", "onion", "olives"], "order_time": 20},
+"9": {"meal_type": "salad", "ingredient": ["cheese", "olives", "tuna", "salad dressing", "avocado"], "order_time": 14}
+}

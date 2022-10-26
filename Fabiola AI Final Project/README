@@ -1,0 +1,26 @@
+Miriam Sasson 346465230
+Oz Matlaw 329603674
+Guy Levy 208917609
+Daniel Alfia 318808540
+
+AI Final Project
+A project to optimize restaurants and cafeterias order scheduling and fulfillment.
+
+Technologies
+* PyQt5 (pyqt5)
+* pyqt5-tools
+* pyqt5-plugins
+* matplotlib
+All technologies can be installed through pip
+
+Usage
+The program will run from main.py and requires one or two arguments. The first argument
+is a string representing the way the input is obtained.
+Options for the first argument are:
+* GENERATE
+    The program will produce a random input
+* APP
+    The program will obtain the input from the user, running the application implemented
+* JSON
+    The program will obtain the input from a json file (examples provided) which name
+    must be supplied as second argument

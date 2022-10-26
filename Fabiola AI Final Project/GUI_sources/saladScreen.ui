@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Dialog</class>
+ <widget class="QDialog" name="Dialog">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>1520</width>
+    <height>714</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Dialog</string>
+  </property>
+  <widget class="QWidget" name="FabiolaPhotoWidget" native="true">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>1520</width>
+     <height>715</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color: rgb(35, 30, 30);</string>
+   </property>
+   <widget class="QPushButton" name="backButton">
+    <property name="geometry">
+     <rect>
+      <x>10</x>
+      <y>10</y>
+      <width>41</width>
+      <height>41</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">color: white;</string>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+   </widget>
+   <widget class="QLabel" name="imageLabel">
+    <property name="geometry">
+     <rect>
+      <x>420</x>
+      <y>60</y>
+      <width>791</width>
+      <height>181</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="cheeseButton">
+    <property name="geometry">
+     <rect>
+      <x>220</x>
+      <y>350</y>
+      <width>151</width>
+      <height>51</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">background-color: white;
+font: 75 16px &quot;Yu Gothic Semibold&quot;;
+</string>
+    </property>
+    <property name="text">
+     <string>CHEESE</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="ketchupButton">
+    <property name="geometry">
+     <rect>
+      <x>970</x>
+      <y>510</y>
+      <width>151</width>
+      <height>51</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">background-color: white;
+font: 75 16px &quot;Yu Gothic Semibold&quot;;
+</string>
+    </property>
+    <property name="text">
+     <string>SALAD DRESSING</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="onionButton">
+    <property name="geometry">
+     <rect>
+      <x>820</x>
+      <y>350</y>
+      <width>151</width>
+      <height>51</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">background-color: white;
+font: 75 16px &quot;Yu Gothic Semibold&quot;;
+</string>
+    </property>
+    <property name="text">
+     <string>ONION</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="tunaButton">
+    <property name="geometry">
+     <rect>
+      <x>1120</x>
+      <y>350</y>
+      <width>151</width>
+      <height>51</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">background-color: white;
+font: 75 16px &quot;Yu Gothic Semibold&quot;;
+</string>
+    </property>
+    <property name="text">
+     <string>TUNA</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="nextButton">
+    <property name="geometry">
+     <rect>
+      <x>1270</x>
+      <y>590</y>
+      <width>111</width>
+      <height>41</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">font: 75 16px &quot;Yu Gothic Semibold&quot;;
+background-color:white;</string>
+    </property>
+    <property name="text">
+     <string>Next</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="avocadoButton">
+    <property name="geometry">
+     <rect>
+      <x>1120</x>
+      <y>430</y>
+      <width>151</width>
+      <height>51</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">background-color: white;
+font: 75 16px &quot;Yu Gothic Semibold&quot;;
+</string>
+    </property>
+    <property name="text">
+     <string>AVOCADO</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="olivesButton">
+    <property name="geometry">
+     <rect>
+      <x>220</x>
+      <y>430</y>
+      <width>151</width>
+      <height>51</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">background-color: white;
+font: 75 16px &quot;Yu Gothic Semibold&quot;;
+</string>
+    </property>
+    <property name="text">
+     <string>OLIVES</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="eggButton">
+    <property name="geometry">
+     <rect>
+      <x>520</x>
+      <y>430</y>
+      <width>151</width>
+      <height>51</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">background-color: white;
+font: 75 16px &quot;Yu Gothic Semibold&quot;;
+</string>
+    </property>
+    <property name="text">
+     <string>EGG</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="tomatoButton">
+    <property name="geometry">
+     <rect>
+      <x>520</x>
+      <y>350</y>
+      <width>151</width>
+      <height>51</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">background-color: white;
+font: 75 16px &quot;Yu Gothic Semibold&quot;;
+</string>
+    </property>
+    <property name="text">
+     <string>TOMATO</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="cucumberButton">
+    <property name="geometry">
+     <rect>
+      <x>820</x>
+      <y>430</y>
+      <width>151</width>
+      <height>51</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">background-color: white;
+font: 75 16px &quot;Yu Gothic Semibold&quot;;
+</string>
+    </property>
+    <property name="text">
+     <string>CUCUMBER</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="lettuceButton">
+    <property name="geometry">
+     <rect>
+      <x>370</x>
+      <y>510</y>
+      <width>151</width>
+      <height>51</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">background-color: white;
+font: 75 16px &quot;Yu Gothic Semibold&quot;;
+</string>
+    </property>
+    <property name="text">
+     <string>LETTUCE</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="bellButton">
+    <property name="geometry">
+     <rect>
+      <x>670</x>
+      <y>510</y>
+      <width>151</width>
+      <height>51</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">background-color: white;
+font: 75 16px &quot;Yu Gothic Semibold&quot;;
+</string>
+    </property>
+    <property name="text">
+     <string>BELL PEPPER</string>
+    </property>
+   </widget>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
